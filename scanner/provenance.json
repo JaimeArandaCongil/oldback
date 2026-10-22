@@ -1,0 +1,6 @@
+{
+  "imagesSha256": "c00a9c0bb4875c17a9b2c4d112634598f0131858a4cef39e6945a176a8bda43f",
+  "cards": 1884,
+  "generator": "scripts/data/build-orb.mjs",
+  "sharp": "0.35.4"
+}

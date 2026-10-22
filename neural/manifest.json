@@ -1,0 +1,37 @@
+{
+  "schema": 1,
+  "model": "mobilenetv2-features-bfa8f7bdd68ff12b.onnx",
+  "modelSha256": "bfa8f7bdd68ff12b519fe81f420ba370904b33b6580b01fb907bd05a3b6959cc",
+  "sourceModelSha256": "c0c3f76d93fa3fd6580652a45618618a220fced18babf65774ed169de0432ad5",
+  "sourceUrl": "https://media.githubusercontent.com/media/onnx/models/main/validated/vision/classification/mobilenet/model/mobilenetv2-12.onnx",
+  "license": "Apache-2.0",
+  "runtime": "runtime-1.30.0",
+  "inputName": "input",
+  "outputName": "464",
+  "input": {
+    "width": 224,
+    "height": 224,
+    "layout": "NCHW",
+    "resize": "stretch-whole-card",
+    "mean": [
+      0.48500001430511475,
+      0.4560000002384186,
+      0.4059999883174896
+    ],
+    "std": [
+      0.2290000021457672,
+      0.2240000069141388,
+      0.22499999403953552
+    ]
+  },
+  "rawDimensions": 1280,
+  "dimensions": 256,
+  "count": 1884,
+  "vectorCount": 3768,
+  "vectors": "vectors-d6206a0c5a28d8cc.f16",
+  "projection": "projection-22ddba2852244737.f32",
+  "index": "index-66211489719f67ba.json",
+  "catalogSignature": "66211489719f67ba4a12fe475a0622731c985016211d6b6a7f9027f9c5edaa87",
+  "catalogImageSignature": "c00a9c0bb4875c17a9b2c4d112634598f0131858a4cef39e6945a176a8bda43f",
+  "training": "ImageNet-pretrained visual features; catalog-only PCA; no shop-photo training or calibrated probabilities"
+}
