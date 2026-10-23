@@ -1,0 +1,1024 @@
+[
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-006",
+  "out": "p4/tcgdex/VS1-006.json",
+  "status": 200,
+  "bytes": 1162,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-003",
+  "out": "p4/tcgdex/VS1-003.json",
+  "status": 200,
+  "bytes": 828,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-001",
+  "out": "p4/tcgdex/VS1-001.json",
+  "status": 200,
+  "bytes": 1183,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-005",
+  "out": "p4/tcgdex/VS1-005.json",
+  "status": 200,
+  "bytes": 1332,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-002",
+  "out": "p4/tcgdex/VS1-002.json",
+  "status": 200,
+  "bytes": 771,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-004",
+  "out": "p4/tcgdex/VS1-004.json",
+  "status": 200,
+  "bytes": 909,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-008",
+  "out": "p4/tcgdex/VS1-008.json",
+  "status": 200,
+  "bytes": 1121,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-010",
+  "out": "p4/tcgdex/VS1-010.json",
+  "status": 200,
+  "bytes": 915,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-009",
+  "out": "p4/tcgdex/VS1-009.json",
+  "status": 200,
+  "bytes": 1049,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-011",
+  "out": "p4/tcgdex/VS1-011.json",
+  "status": 200,
+  "bytes": 916,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-012",
+  "out": "p4/tcgdex/VS1-012.json",
+  "status": 200,
+  "bytes": 1078,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-007",
+  "out": "p4/tcgdex/VS1-007.json",
+  "status": 200,
+  "bytes": 941,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-013",
+  "out": "p4/tcgdex/VS1-013.json",
+  "status": 200,
+  "bytes": 1007,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-014",
+  "out": "p4/tcgdex/VS1-014.json",
+  "status": 200,
+  "bytes": 897,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-015",
+  "out": "p4/tcgdex/VS1-015.json",
+  "status": 200,
+  "bytes": 1232,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-016",
+  "out": "p4/tcgdex/VS1-016.json",
+  "status": 200,
+  "bytes": 954,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-017",
+  "out": "p4/tcgdex/VS1-017.json",
+  "status": 200,
+  "bytes": 949,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-018",
+  "out": "p4/tcgdex/VS1-018.json",
+  "status": 200,
+  "bytes": 931,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-020",
+  "out": "p4/tcgdex/VS1-020.json",
+  "status": 200,
+  "bytes": 1075,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-021",
+  "out": "p4/tcgdex/VS1-021.json",
+  "status": 200,
+  "bytes": 905,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-022",
+  "out": "p4/tcgdex/VS1-022.json",
+  "status": 200,
+  "bytes": 1051,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-024",
+  "out": "p4/tcgdex/VS1-024.json",
+  "status": 200,
+  "bytes": 985,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-019",
+  "out": "p4/tcgdex/VS1-019.json",
+  "status": 200,
+  "bytes": 1048,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-023",
+  "out": "p4/tcgdex/VS1-023.json",
+  "status": 200,
+  "bytes": 904,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-026",
+  "out": "p4/tcgdex/VS1-026.json",
+  "status": 200,
+  "bytes": 819,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-027",
+  "out": "p4/tcgdex/VS1-027.json",
+  "status": 200,
+  "bytes": 996,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-030",
+  "out": "p4/tcgdex/VS1-030.json",
+  "status": 200,
+  "bytes": 946,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-025",
+  "out": "p4/tcgdex/VS1-025.json",
+  "status": 200,
+  "bytes": 1114,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-029",
+  "out": "p4/tcgdex/VS1-029.json",
+  "status": 200,
+  "bytes": 1005,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-028",
+  "out": "p4/tcgdex/VS1-028.json",
+  "status": 200,
+  "bytes": 964,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-036",
+  "out": "p4/tcgdex/VS1-036.json",
+  "status": 200,
+  "bytes": 936,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-034",
+  "out": "p4/tcgdex/VS1-034.json",
+  "status": 200,
+  "bytes": 841,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-032",
+  "out": "p4/tcgdex/VS1-032.json",
+  "status": 200,
+  "bytes": 1051,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-035",
+  "out": "p4/tcgdex/VS1-035.json",
+  "status": 200,
+  "bytes": 1088,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-033",
+  "out": "p4/tcgdex/VS1-033.json",
+  "status": 200,
+  "bytes": 1040,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-031",
+  "out": "p4/tcgdex/VS1-031.json",
+  "status": 200,
+  "bytes": 1027,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-040",
+  "out": "p4/tcgdex/VS1-040.json",
+  "status": 200,
+  "bytes": 952,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-038",
+  "out": "p4/tcgdex/VS1-038.json",
+  "status": 200,
+  "bytes": 1248,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-037",
+  "out": "p4/tcgdex/VS1-037.json",
+  "status": 200,
+  "bytes": 1216,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-039",
+  "out": "p4/tcgdex/VS1-039.json",
+  "status": 200,
+  "bytes": 1066,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-041",
+  "out": "p4/tcgdex/VS1-041.json",
+  "status": 200,
+  "bytes": 1144,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-042",
+  "out": "p4/tcgdex/VS1-042.json",
+  "status": 200,
+  "bytes": 812,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-045",
+  "out": "p4/tcgdex/VS1-045.json",
+  "status": 200,
+  "bytes": 979,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-043",
+  "out": "p4/tcgdex/VS1-043.json",
+  "status": 200,
+  "bytes": 967,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-044",
+  "out": "p4/tcgdex/VS1-044.json",
+  "status": 200,
+  "bytes": 1075,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-046",
+  "out": "p4/tcgdex/VS1-046.json",
+  "status": 200,
+  "bytes": 991,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-048",
+  "out": "p4/tcgdex/VS1-048.json",
+  "status": 200,
+  "bytes": 1160,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-047",
+  "out": "p4/tcgdex/VS1-047.json",
+  "status": 200,
+  "bytes": 978,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-049",
+  "out": "p4/tcgdex/VS1-049.json",
+  "status": 200,
+  "bytes": 898,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-050",
+  "out": "p4/tcgdex/VS1-050.json",
+  "status": 200,
+  "bytes": 878,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-051",
+  "out": "p4/tcgdex/VS1-051.json",
+  "status": 200,
+  "bytes": 827,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-052",
+  "out": "p4/tcgdex/VS1-052.json",
+  "status": 200,
+  "bytes": 969,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-054",
+  "out": "p4/tcgdex/VS1-054.json",
+  "status": 200,
+  "bytes": 993,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-053",
+  "out": "p4/tcgdex/VS1-053.json",
+  "status": 200,
+  "bytes": 928,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-055",
+  "out": "p4/tcgdex/VS1-055.json",
+  "status": 200,
+  "bytes": 1040,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-056",
+  "out": "p4/tcgdex/VS1-056.json",
+  "status": 200,
+  "bytes": 1098,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-057",
+  "out": "p4/tcgdex/VS1-057.json",
+  "status": 200,
+  "bytes": 1039,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-058",
+  "out": "p4/tcgdex/VS1-058.json",
+  "status": 200,
+  "bytes": 967,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-060",
+  "out": "p4/tcgdex/VS1-060.json",
+  "status": 200,
+  "bytes": 1196,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-059",
+  "out": "p4/tcgdex/VS1-059.json",
+  "status": 200,
+  "bytes": 891,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-064",
+  "out": "p4/tcgdex/VS1-064.json",
+  "status": 200,
+  "bytes": 874,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-062",
+  "out": "p4/tcgdex/VS1-062.json",
+  "status": 200,
+  "bytes": 868,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-063",
+  "out": "p4/tcgdex/VS1-063.json",
+  "status": 200,
+  "bytes": 1117,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-061",
+  "out": "p4/tcgdex/VS1-061.json",
+  "status": 200,
+  "bytes": 1157,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-066",
+  "out": "p4/tcgdex/VS1-066.json",
+  "status": 200,
+  "bytes": 1063,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-065",
+  "out": "p4/tcgdex/VS1-065.json",
+  "status": 200,
+  "bytes": 1009,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-068",
+  "out": "p4/tcgdex/VS1-068.json",
+  "status": 200,
+  "bytes": 1080,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-067",
+  "out": "p4/tcgdex/VS1-067.json",
+  "status": 200,
+  "bytes": 940,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-069",
+  "out": "p4/tcgdex/VS1-069.json",
+  "status": 200,
+  "bytes": 963,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-070",
+  "out": "p4/tcgdex/VS1-070.json",
+  "status": 200,
+  "bytes": 1090,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-072",
+  "out": "p4/tcgdex/VS1-072.json",
+  "status": 200,
+  "bytes": 1092,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-071",
+  "out": "p4/tcgdex/VS1-071.json",
+  "status": 200,
+  "bytes": 1070,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-073",
+  "out": "p4/tcgdex/VS1-073.json",
+  "status": 200,
+  "bytes": 947,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-074",
+  "out": "p4/tcgdex/VS1-074.json",
+  "status": 200,
+  "bytes": 1018,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-076",
+  "out": "p4/tcgdex/VS1-076.json",
+  "status": 200,
+  "bytes": 944,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-075",
+  "out": "p4/tcgdex/VS1-075.json",
+  "status": 200,
+  "bytes": 905,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-079",
+  "out": "p4/tcgdex/VS1-079.json",
+  "status": 200,
+  "bytes": 1215,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-078",
+  "out": "p4/tcgdex/VS1-078.json",
+  "status": 200,
+  "bytes": 919,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-080",
+  "out": "p4/tcgdex/VS1-080.json",
+  "status": 200,
+  "bytes": 908,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-083",
+  "out": "p4/tcgdex/VS1-083.json",
+  "status": 200,
+  "bytes": 1168,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-082",
+  "out": "p4/tcgdex/VS1-082.json",
+  "status": 200,
+  "bytes": 905,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-081",
+  "out": "p4/tcgdex/VS1-081.json",
+  "status": 200,
+  "bytes": 924,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-085",
+  "out": "p4/tcgdex/VS1-085.json",
+  "status": 200,
+  "bytes": 1016,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-084",
+  "out": "p4/tcgdex/VS1-084.json",
+  "status": 200,
+  "bytes": 969,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-087",
+  "out": "p4/tcgdex/VS1-087.json",
+  "status": 200,
+  "bytes": 1050,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-089",
+  "out": "p4/tcgdex/VS1-089.json",
+  "status": 200,
+  "bytes": 753,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-088",
+  "out": "p4/tcgdex/VS1-088.json",
+  "status": 200,
+  "bytes": 944,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-086",
+  "out": "p4/tcgdex/VS1-086.json",
+  "status": 200,
+  "bytes": 1222,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-091",
+  "out": "p4/tcgdex/VS1-091.json",
+  "status": 200,
+  "bytes": 1051,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-090",
+  "out": "p4/tcgdex/VS1-090.json",
+  "status": 200,
+  "bytes": 1149,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-093",
+  "out": "p4/tcgdex/VS1-093.json",
+  "status": 200,
+  "bytes": 977,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-092",
+  "out": "p4/tcgdex/VS1-092.json",
+  "status": 200,
+  "bytes": 1251,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-094",
+  "out": "p4/tcgdex/VS1-094.json",
+  "status": 200,
+  "bytes": 1113,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-095",
+  "out": "p4/tcgdex/VS1-095.json",
+  "status": 200,
+  "bytes": 929,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-097",
+  "out": "p4/tcgdex/VS1-097.json",
+  "status": 200,
+  "bytes": 927,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-096",
+  "out": "p4/tcgdex/VS1-096.json",
+  "status": 200,
+  "bytes": 1108,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-100",
+  "out": "p4/tcgdex/VS1-100.json",
+  "status": 200,
+  "bytes": 901,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-098",
+  "out": "p4/tcgdex/VS1-098.json",
+  "status": 200,
+  "bytes": 1195,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-099",
+  "out": "p4/tcgdex/VS1-099.json",
+  "status": 200,
+  "bytes": 1040,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-101",
+  "out": "p4/tcgdex/VS1-101.json",
+  "status": 200,
+  "bytes": 1001,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-102",
+  "out": "p4/tcgdex/VS1-102.json",
+  "status": 200,
+  "bytes": 1002,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-103",
+  "out": "p4/tcgdex/VS1-103.json",
+  "status": 200,
+  "bytes": 635,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-106",
+  "out": "p4/tcgdex/VS1-106.json",
+  "status": 200,
+  "bytes": 622,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-107",
+  "out": "p4/tcgdex/VS1-107.json",
+  "status": 200,
+  "bytes": 635,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-104",
+  "out": "p4/tcgdex/VS1-104.json",
+  "status": 200,
+  "bytes": 635,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-105",
+  "out": "p4/tcgdex/VS1-105.json",
+  "status": 200,
+  "bytes": 622,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-108",
+  "out": "p4/tcgdex/VS1-108.json",
+  "status": 200,
+  "bytes": 635,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-109",
+  "out": "p4/tcgdex/VS1-109.json",
+  "status": 200,
+  "bytes": 616,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-111",
+  "out": "p4/tcgdex/VS1-111.json",
+  "status": 200,
+  "bytes": 632,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-110",
+  "out": "p4/tcgdex/VS1-110.json",
+  "status": 200,
+  "bytes": 616,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-113",
+  "out": "p4/tcgdex/VS1-113.json",
+  "status": 200,
+  "bytes": 629,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-112",
+  "out": "p4/tcgdex/VS1-112.json",
+  "status": 200,
+  "bytes": 632,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-114",
+  "out": "p4/tcgdex/VS1-114.json",
+  "status": 200,
+  "bytes": 629,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-115",
+  "out": "p4/tcgdex/VS1-115.json",
+  "status": 200,
+  "bytes": 629,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-118",
+  "out": "p4/tcgdex/VS1-118.json",
+  "status": 200,
+  "bytes": 616,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-116",
+  "out": "p4/tcgdex/VS1-116.json",
+  "status": 200,
+  "bytes": 629,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-117",
+  "out": "p4/tcgdex/VS1-117.json",
+  "status": 200,
+  "bytes": 616,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-119",
+  "out": "p4/tcgdex/VS1-119.json",
+  "status": 200,
+  "bytes": 632,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-120",
+  "out": "p4/tcgdex/VS1-120.json",
+  "status": 200,
+  "bytes": 632,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-121",
+  "out": "p4/tcgdex/VS1-121.json",
+  "status": 200,
+  "bytes": 626,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-123",
+  "out": "p4/tcgdex/VS1-123.json",
+  "status": 200,
+  "bytes": 629,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-124",
+  "out": "p4/tcgdex/VS1-124.json",
+  "status": 200,
+  "bytes": 629,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-122",
+  "out": "p4/tcgdex/VS1-122.json",
+  "status": 200,
+  "bytes": 626,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-125",
+  "out": "p4/tcgdex/VS1-125.json",
+  "status": 200,
+  "bytes": 626,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-126",
+  "out": "p4/tcgdex/VS1-126.json",
+  "status": 200,
+  "bytes": 626,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-127",
+  "out": "p4/tcgdex/VS1-127.json",
+  "status": 200,
+  "bytes": 629,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-128",
+  "out": "p4/tcgdex/VS1-128.json",
+  "status": 200,
+  "bytes": 626,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-129",
+  "out": "p4/tcgdex/VS1-129.json",
+  "status": 200,
+  "bytes": 626,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-130",
+  "out": "p4/tcgdex/VS1-130.json",
+  "status": 200,
+  "bytes": 601,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-131",
+  "out": "p4/tcgdex/VS1-131.json",
+  "status": 200,
+  "bytes": 601,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-132",
+  "out": "p4/tcgdex/VS1-132.json",
+  "status": 200,
+  "bytes": 601,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-133",
+  "out": "p4/tcgdex/VS1-133.json",
+  "status": 200,
+  "bytes": 604,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-136",
+  "out": "p4/tcgdex/VS1-136.json",
+  "status": 200,
+  "bytes": 619,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-135",
+  "out": "p4/tcgdex/VS1-135.json",
+  "status": 200,
+  "bytes": 607,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-134",
+  "out": "p4/tcgdex/VS1-134.json",
+  "status": 200,
+  "bytes": 598,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-137",
+  "out": "p4/tcgdex/VS1-137.json",
+  "status": 200,
+  "bytes": 610,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-138",
+  "out": "p4/tcgdex/VS1-138.json",
+  "status": 200,
+  "bytes": 607,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-139",
+  "out": "p4/tcgdex/VS1-139.json",
+  "status": 200,
+  "bytes": 610,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-141",
+  "out": "p4/tcgdex/VS1-141.json",
+  "status": 200,
+  "bytes": 607,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-140",
+  "out": "p4/tcgdex/VS1-140.json",
+  "status": 200,
+  "bytes": 605,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-143",
+  "out": "p4/tcgdex/VS1-143.json",
+  "status": 200,
+  "bytes": 604,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-144",
+  "out": "p4/tcgdex/VS1-144.json",
+  "status": 200,
+  "bytes": 604,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/cards/VS1-151",
+  "out": "p4/tcgdex/VS1-151.json",
+  "status": 200,
+  "bytes": 613,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://tcgcsv.com/last-updated.txt",
+  "out": "p4/last-updated.txt",
+  "status": 200,
+  "bytes": 24,
+  "type": "text/plain"
+ },
+ {
+  "url": "https://jp.pokellector.com/search?criteria=starter+deck",
+  "out": "p4/pokellector-search.html",
+  "status": 200,
+  "bytes": 70152,
+  "type": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://jp.pokellector.com/sets/VS-Pokemon-VS",
+  "out": "p4/pokellector-vs.html",
+  "status": 200,
+  "bytes": 143267,
+  "type": "text/html; charset=UTF-8"
+ }
+]
