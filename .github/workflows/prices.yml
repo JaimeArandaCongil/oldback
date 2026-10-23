@@ -23,11 +23,13 @@ jobs:
           node-version: 22
       - name: Descargar precios
         run: node prices/refresh.mjs
+      - name: Añadir al historial
+        run: node prices/history.mjs daily
       - name: Guardar si han cambiado
         run: |
           git config user.name "oldback-precios"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add prices/references.json
+          git add prices/references.json prices/history.json
           if git diff --cached --quiet; then echo "Sin cambios"; exit 0; fi
           git commit -m "Precios TCGplayer $(date -u +%F)"
           git pull --rebase
