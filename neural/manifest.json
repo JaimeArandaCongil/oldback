@@ -28,10 +28,10 @@
   "dimensions": 256,
   "count": 2044,
   "vectorCount": 4088,
-  "vectors": "vectors-53550e62e9e7b3cb.f16",
-  "projection": "projection-48a01dad91500de9.f32",
+  "vectors": "vectors-59c6e6e58c870a90.f16",
+  "projection": "projection-1c63f9ead77ff5fd.f32",
   "index": "index-99c20fa8bbcbe3ea.json",
   "catalogSignature": "99c20fa8bbcbe3ea43e0c9416a2a98065bb0f0f61d2d84cea47e80766e155295",
-  "catalogImageSignature": "e953bcae9e301ec50d1e9651ffd333066337a2dc83d831a20f04df12aa256b70",
+  "catalogImageSignature": "0d071655bee0b7f02a935ed1b08a4ff0f72ef806f423488fb289225b1645e274",
   "training": "ImageNet-pretrained visual features; catalog-only PCA; no shop-photo training or calibrated probabilities"
 }
