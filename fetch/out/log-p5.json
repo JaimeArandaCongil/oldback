@@ -1,0 +1,23 @@
+[
+ {
+  "url": "https://jp.pokellector.com/Expansion-Pack-Expansion/",
+  "out": "p5/pokellector-base.html",
+  "status": 200,
+  "bytes": 100296,
+  "type": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://www.pokellector.com/sets",
+  "out": "p5/pokellector-en-sets.html",
+  "status": 200,
+  "bytes": 88378,
+  "type": "text/html; charset=UTF-8"
+ },
+ {
+  "url": "https://jp.pokellector.com/sets",
+  "out": "p5/pokellector-sets.html",
+  "status": 200,
+  "bytes": 95848,
+  "type": "text/html; charset=UTF-8"
+ }
+]
