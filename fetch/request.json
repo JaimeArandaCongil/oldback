@@ -1,0 +1,5 @@
+{"name":"p1","items":[
+ {"url":"https://api.tcgdex.net/v2/ja/sets","out":"p1/tcgdex-ja-sets.json"},
+ {"url":"https://tcgcsv.com/tcgplayer/85/groups","out":"p1/tcgcsv-groups.json"},
+ {"url":"https://www.pricecharting.com/category/pokemon-cards","out":"p1/pc-category.html"}
+]}
