@@ -1,0 +1,212 @@
+[
+ {
+  "url": "https://den-media.pokellector.com/logos/Pokemon-Jungle.symbol.313.png",
+  "out": "p6/jungle.symbol.png",
+  "status": 200,
+  "bytes": 2254,
+  "type": "image/png"
+ },
+ {
+  "url": "https://den-media.pokellector.com/logos/Expansion-Pack.symbol.311.png",
+  "out": "p6/base.symbol.png",
+  "status": 200,
+  "bytes": 536,
+  "type": "image/png"
+ },
+ {
+  "url": "https://den-media.pokellector.com/logos/Expansion-Pack.logo.311.png",
+  "out": "p6/base.logo.png",
+  "status": 200,
+  "bytes": 112506,
+  "type": "image/png"
+ },
+ {
+  "url": "https://den-media.pokellector.com/logos/Pokemon-Jungle.logo.313.png",
+  "out": "p6/jungle.logo.png",
+  "status": 200,
+  "bytes": 110268,
+  "type": "image/png"
+ },
+ {
+  "url": "https://den-media.pokellector.com/logos/Mystery-of-the-Fossils.symbol.314.png",
+  "out": "p6/fossil.symbol.png",
+  "status": 200,
+  "bytes": 2185,
+  "type": "image/png"
+ },
+ {
+  "url": "https://den-media.pokellector.com/logos/Mystery-of-the-Fossils.logo.314.png",
+  "out": "p6/fossil.logo.png",
+  "status": 200,
+  "bytes": 112682,
+  "type": "image/png"
+ },
+ {
+  "url": "https://den-media.pokellector.com/logos/Rocket-Gang.symbol.315.png",
+  "out": "p6/rocket.symbol.png",
+  "status": 200,
+  "bytes": 1314,
+  "type": "image/png"
+ },
+ {
+  "url": "https://den-media.pokellector.com/logos/Rocket-Gang.logo.315.png",
+  "out": "p6/rocket.logo.png",
+  "status": 200,
+  "bytes": 111336,
+  "type": "image/png"
+ },
+ {
+  "url": "https://den-media.pokellector.com/logos/Leaders-Stadium.logo.316.png",
+  "out": "p6/gym1.logo.png",
+  "status": 200,
+  "bytes": 116337,
+  "type": "image/png"
+ },
+ {
+  "url": "https://den-media.pokellector.com/logos/Leaders-Stadium.symbol.316.png",
+  "out": "p6/gym1.symbol.png",
+  "status": 200,
+  "bytes": 1212,
+  "type": "image/png"
+ },
+ {
+  "url": "https://den-media.pokellector.com/logos/Challenge-from-the-Darkness.logo.317.png",
+  "out": "p6/gym2.logo.png",
+  "status": 200,
+  "bytes": 107854,
+  "type": "image/png"
+ },
+ {
+  "url": "https://den-media.pokellector.com/logos/Challenge-from-the-Darkness.symbol.317.png",
+  "out": "p6/gym2.symbol.png",
+  "status": 200,
+  "bytes": 1204,
+  "type": "image/png"
+ },
+ {
+  "url": "https://den-media.pokellector.com/logos/Gold-Silver-to-a-New-World.logo.324.png",
+  "out": "p6/neo1.logo.png",
+  "status": 200,
+  "bytes": 93198,
+  "type": "image/png"
+ },
+ {
+  "url": "https://den-media.pokellector.com/logos/Gold-Silver-to-a-New-World.symbol.324.png",
+  "out": "p6/neo1.symbol.png",
+  "status": 200,
+  "bytes": 1497,
+  "type": "image/png"
+ },
+ {
+  "url": "https://den-media.pokellector.com/logos/Crossing-the-Ruins.logo.331.png",
+  "out": "p6/neo2.logo.png",
+  "status": 200,
+  "bytes": 66231,
+  "type": "image/png"
+ },
+ {
+  "url": "https://den-media.pokellector.com/logos/Crossing-the-Ruins.symbol.331.png",
+  "out": "p6/neo2.symbol.png",
+  "status": 200,
+  "bytes": 1132,
+  "type": "image/png"
+ },
+ {
+  "url": "https://den-media.pokellector.com/logos/Awakening-Legends.symbol.332.png",
+  "out": "p6/neo3.symbol.png",
+  "status": 200,
+  "bytes": 1308,
+  "type": "image/png"
+ },
+ {
+  "url": "https://den-media.pokellector.com/logos/Awakening-Legends.logo.332.png",
+  "out": "p6/neo3.logo.png",
+  "status": 200,
+  "bytes": 94669,
+  "type": "image/png"
+ },
+ {
+  "url": "https://den-media.pokellector.com/logos/Darkness-and-to-Light.symbol.333.png",
+  "out": "p6/neo4.symbol.png",
+  "status": 200,
+  "bytes": 1905,
+  "type": "image/png"
+ },
+ {
+  "url": "https://den-media.pokellector.com/logos/Darkness-and-to-Light.logo.333.png",
+  "out": "p6/neo4.logo.png",
+  "status": 200,
+  "bytes": 51582,
+  "type": "image/png"
+ },
+ {
+  "url": "https://den-media.pokellector.com/logos/Vending-Series-1-Blue.logo.395.png",
+  "out": "p6/vending1.logo.png",
+  "status": 200,
+  "bytes": 58025,
+  "type": "image/png"
+ },
+ {
+  "url": "https://den-media.pokellector.com/logos/Vending-Series-Blue.symbol.395.png",
+  "out": "p6/vending1.symbol.png",
+  "status": 200,
+  "bytes": 1119,
+  "type": "image/png"
+ },
+ {
+  "url": "https://den-media.pokellector.com/logos/Vending-Series-2-Red.logo.396.png",
+  "out": "p6/vending2.logo.png",
+  "status": 200,
+  "bytes": 57512,
+  "type": "image/png"
+ },
+ {
+  "url": "https://den-media.pokellector.com/logos/Vending-Series-2-Red.symbol.396.png",
+  "out": "p6/vending2.symbol.png",
+  "status": 200,
+  "bytes": 1119,
+  "type": "image/png"
+ },
+ {
+  "url": "https://den-media.pokellector.com/logos/Vending-Series-3-Green.logo.397.png",
+  "out": "p6/vending3.logo.png",
+  "status": 200,
+  "bytes": 57551,
+  "type": "image/png"
+ },
+ {
+  "url": "https://den-media.pokellector.com/logos/Vending-Series-3-Green.symbol.397.png",
+  "out": "p6/vending3.symbol.png",
+  "status": 200,
+  "bytes": 1119,
+  "type": "image/png"
+ },
+ {
+  "url": "https://den-media.pokellector.com/logos/Pokemon-VS.logo.276.png",
+  "out": "p6/vs.logo.png",
+  "status": 200,
+  "bytes": 16307,
+  "type": "image/png"
+ },
+ {
+  "url": "https://den-media.pokellector.com/logos/Pokemon-VS.symbol.276.png",
+  "out": "p6/vs.symbol.png",
+  "status": 200,
+  "bytes": 1735,
+  "type": "image/png"
+ },
+ {
+  "url": "https://den-media.pokellector.com/logos/The-Town-on-No-Map.symbol.390.png",
+  "out": "p6/e2.symbol.png",
+  "status": 200,
+  "bytes": 1699,
+  "type": "image/png"
+ },
+ {
+  "url": "https://den-media.pokellector.com/logos/The-Town-on-No-Map.logo.390.png",
+  "out": "p6/e2.logo.png",
+  "status": 200,
+  "bytes": 73088,
+  "type": "image/png"
+ }
+]
