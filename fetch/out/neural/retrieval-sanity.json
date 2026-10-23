@@ -1,0 +1,146 @@
+[
+  {
+    "id": "base-37251",
+    "effect": "clean",
+    "rank": 1,
+    "score": 0.9818
+  },
+  {
+    "id": "base-37251",
+    "effect": "blur",
+    "rank": 1,
+    "score": 0.8598
+  },
+  {
+    "id": "base-37251",
+    "effect": "label",
+    "rank": 1,
+    "score": 0.8092
+  },
+  {
+    "id": "base-37251",
+    "effect": "glare",
+    "rank": 1,
+    "score": 0.4729
+  },
+  {
+    "id": "base-37254",
+    "effect": "clean",
+    "rank": 1,
+    "score": 0.9745
+  },
+  {
+    "id": "base-37254",
+    "effect": "blur",
+    "rank": 1,
+    "score": 0.7415
+  },
+  {
+    "id": "base-37254",
+    "effect": "label",
+    "rank": 1,
+    "score": 0.7596
+  },
+  {
+    "id": "base-37254",
+    "effect": "glare",
+    "rank": 1,
+    "score": 0.4453
+  },
+  {
+    "id": "e1-001",
+    "effect": "clean",
+    "rank": 1,
+    "score": 0.9692
+  },
+  {
+    "id": "e1-001",
+    "effect": "blur",
+    "rank": 1,
+    "score": 0.858
+  },
+  {
+    "id": "e1-001",
+    "effect": "label",
+    "rank": 1,
+    "score": 0.6931
+  },
+  {
+    "id": "e1-001",
+    "effect": "glare",
+    "rank": 1,
+    "score": 0.7258
+  },
+  {
+    "id": "e2-004",
+    "effect": "clean",
+    "rank": 1,
+    "score": 0.9799
+  },
+  {
+    "id": "e2-004",
+    "effect": "blur",
+    "rank": 1,
+    "score": 0.7551
+  },
+  {
+    "id": "e2-004",
+    "effect": "label",
+    "rank": 1,
+    "score": 0.8368
+  },
+  {
+    "id": "e2-004",
+    "effect": "glare",
+    "rank": 1,
+    "score": 0.4766
+  },
+  {
+    "id": "e3-090",
+    "effect": "clean",
+    "rank": 1,
+    "score": 0.9647
+  },
+  {
+    "id": "e3-090",
+    "effect": "blur",
+    "rank": 1,
+    "score": 0.823
+  },
+  {
+    "id": "e3-090",
+    "effect": "label",
+    "rank": 1,
+    "score": 0.7725
+  },
+  {
+    "id": "e3-090",
+    "effect": "glare",
+    "rank": 1,
+    "score": 0.6314
+  },
+  {
+    "id": "e5-091",
+    "effect": "clean",
+    "rank": 1,
+    "score": 0.9631
+  },
+  {
+    "id": "e5-091",
+    "effect": "blur",
+    "rank": 1,
+    "score": 0.8251
+  },
+  {
+    "id": "e5-091",
+    "effect": "label",
+    "rank": 1,
+    "score": 0.7885
+  },
+  {
+    "id": "e5-091",
+    "effect": "glare",
+    "rank": 1,
+    "score": 0.5348
+  }
+]
