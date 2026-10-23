@@ -1,0 +1,72 @@
+[
+ {
+  "url": "https://tcgcsv.com/tcgplayer/85/24180/prices",
+  "out": "p2/vs-prices.json",
+  "status": 200,
+  "bytes": 19458,
+  "type": "application/json"
+ },
+ {
+  "url": "https://tcgcsv.com/tcgplayer/85/24167/products",
+  "out": "p2/est-products.json",
+  "status": 200,
+  "bytes": 33475,
+  "type": "application/json"
+ },
+ {
+  "url": "https://tcgcsv.com/tcgplayer/85/24180/products",
+  "out": "p2/vs-products.json",
+  "status": 200,
+  "bytes": 161217,
+  "type": "application/json"
+ },
+ {
+  "url": "https://tcgcsv.com/tcgplayer/85/24167/prices",
+  "out": "p2/est-prices.json",
+  "status": 200,
+  "bytes": 3894,
+  "type": "application/json"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/sets/VS1",
+  "out": "p2/tcgdex-VS1.json",
+  "status": 200,
+  "bytes": 10566,
+  "type": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://www.pricecharting.com/console/pokemon-japanese-vs?sort=model-number&view=table",
+  "out": "p2/pc-vs.html",
+  "status": 200,
+  "bytes": 655716,
+  "type": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://japanesepokemoncards.net/",
+  "out": "p2/jpc-home.html",
+  "status": 200,
+  "bytes": 1581396,
+  "type": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://www.pricecharting.com/search-products?q=japanese+starter+deck+charizard+012&type=prices",
+  "out": "p2/pc-search-est.html",
+  "status": 200,
+  "bytes": 76425,
+  "type": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://japanesepokemoncards.net/vs",
+  "out": "p2/jpc-vs.html",
+  "status": 200,
+  "bytes": 282341,
+  "type": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://japanesepokemoncards.net/expedition/koffing",
+  "out": "p2/jpc-koffing.html",
+  "status": 200,
+  "bytes": 95844,
+  "type": "text/html; charset=utf-8"
+ }
+]
