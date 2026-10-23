@@ -1,0 +1,34 @@
+# Temporary: rebuilds the scanner's visual index (public/neural) with the new
+# catalog. Uses the card photos already published on main plus the new ones.
+name: Índice visual (temporal)
+on:
+  push:
+    branches: [claude-fetch]
+    paths: ['neural/request.txt']
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          path: site
+          sparse-checkout: cards
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r neural/root/scripts/requirements-neural.txt
+      - run: cp -n site/cards/* neural/root/public/cards/ && ls neural/root/public/cards | wc -l
+      - run: python neural/root/scripts/build-neural-index.py
+      - run: |
+          mkdir -p fetch/out/neural && cp neural/root/public/neural/* fetch/out/neural/ && cp neural/root/.generated/neural-build/retrieval-sanity.json fetch/out/neural/
+          git config user.name "oldback-datos"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add fetch/out/neural
+          git commit -m "Índice visual $(date -u +%FT%TZ)"
+          git pull --rebase origin claude-fetch
+          git push origin HEAD:claude-fetch
