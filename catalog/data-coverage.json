@@ -1,16 +1,16 @@
 {
-  "checkedAt": "2026-10-22T00:40:08.780Z",
-  "cards": 1891,
-  "japaneseNames": 1891,
-  "photos": 1884,
-  "primaryPrices": 1691,
-  "referencePrices": 1810,
-  "priceChartingPrices": 1520,
+  "checkedAt": "2026-10-23T03:33:48.181Z",
+  "cards": 2065,
+  "japaneseNames": 2065,
+  "photos": 2044,
+  "primaryPrices": 1831,
+  "referencePrices": 1965,
+  "priceChartingPrices": 1623,
   "remaining": {
     "japaneseNames": 0,
-    "photos": 7,
-    "primaryPrices": 200,
-    "anyReference": 81
+    "photos": 21,
+    "primaryPrices": 234,
+    "anyReference": 100
   },
-  "priceTable": "2026-10-21T20:05:22+0000"
+  "priceTable": "2026-10-22T20:06:32+0000"
 }
