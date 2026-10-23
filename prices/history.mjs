@@ -70,14 +70,14 @@ async function backfill(limit=365){
     try{const data=JSON.parse(await fs.readFile(path.join(tmp,date,'85',String(g),'prices'),'utf8'));for(const q of data.results||[])prices.set(q.productId+'|'+q.subTypeName,q.marketPrice);}catch{}
    }
    const filled=setColumn(h,date,c=>prices.get(c.productId+'|'+c.subTypeName));
-   done++;console.log(`${date}: ${filled} precios (${(Buffer.byteLength(await fs.readFile(archive))/1048576).toFixed(1)} MB)`);
-  }catch(e){console.log(`${date}: no disponible (${e.message})`);}
+   done++;console.log(`${done===1?'::notice::':''}${date}: ${filled} precios (${(Buffer.byteLength(await fs.readFile(archive))/1048576).toFixed(1)} MB)`);
+  }catch(e){console.log(`::warning::${date}: no disponible (${e.message})`);}
   await fs.rm(path.join(tmp,date),{recursive:true,force:true});await fs.rm(archive,{force:true});
   if(done%10===0)await save(h);
   await new Promise(r=>setTimeout(r,300));
  }
  await save(h);await fs.rm(tmp,{recursive:true,force:true});
- console.log(`Historial: ${h.dates.length} días, del ${h.dates[0]} al ${h.dates.at(-1)}`);
+ console.log(`::notice::Historial: ${h.dates.length} días, del ${h.dates[0]} al ${h.dates.at(-1)} · ${done} archivos nuevos de ${todo.length}`);
 }
 
 const [mode,arg]=process.argv.slice(2);
