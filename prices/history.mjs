@@ -60,9 +60,9 @@ async function backfill(limit=365){
  for(const date of todo){
   const archive=path.join(tmp,date+'.7z');
   try{
-   const r=await fetch(`https://tcgcsv.com/archive/tcgplayer/prices-${date}.ppmd.7z`,{headers:{'User-Agent':'OldBackPriceReference/2.0 (personal collection; history backfill)'},signal:AbortSignal.timeout(120000)});
-   if(!r.ok)throw Error('HTTP '+r.status);
-   await fs.writeFile(archive,Buffer.from(await r.arrayBuffer()));
+   // Each archive is downloaded once: its date stays in history.json (TCGCSV asks not to re-download them).
+   try{execFileSync('curl',['-fsSL','--retry','2','-A','OldBack/4.7.0','-o',archive,`https://tcgcsv.com/archive/tcgplayer/prices-${date}.ppmd.7z`],{stdio:['ignore','ignore','pipe']});}
+   catch(e){throw Error(String(e.stderr||e.message).trim().slice(0,120));}
    // Only the Pokémon Japan category (85) is extracted.
    execFileSync('7z',['x','-y','-o'+tmp,archive,`${date}/85/*`],{stdio:'ignore'});
    const prices=new Map();
