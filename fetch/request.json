@@ -1,5 +1,12 @@
-{"name":"p1","items":[
- {"url":"https://api.tcgdex.net/v2/ja/sets","out":"p1/tcgdex-ja-sets.json"},
- {"url":"https://tcgcsv.com/tcgplayer/85/groups","out":"p1/tcgcsv-groups.json"},
- {"url":"https://www.pricecharting.com/category/pokemon-cards","out":"p1/pc-category.html"}
+{"name":"p2","items":[
+ {"url":"https://api.tcgdex.net/v2/ja/sets/VS1","out":"p2/tcgdex-VS1.json"},
+ {"url":"https://tcgcsv.com/tcgplayer/85/24180/products","out":"p2/vs-products.json"},
+ {"url":"https://tcgcsv.com/tcgplayer/85/24180/prices","out":"p2/vs-prices.json"},
+ {"url":"https://tcgcsv.com/tcgplayer/85/24167/products","out":"p2/est-products.json"},
+ {"url":"https://tcgcsv.com/tcgplayer/85/24167/prices","out":"p2/est-prices.json"},
+ {"url":"https://www.pricecharting.com/console/pokemon-japanese-vs?sort=model-number&view=table","out":"p2/pc-vs.html"},
+ {"url":"https://www.pricecharting.com/search-products?q=japanese+starter+deck+charizard+012&type=prices","out":"p2/pc-search-est.html"},
+ {"url":"https://japanesepokemoncards.net/","out":"p2/jpc-home.html"},
+ {"url":"https://japanesepokemoncards.net/vs","out":"p2/jpc-vs.html"},
+ {"url":"https://japanesepokemoncards.net/expedition/koffing","out":"p2/jpc-koffing.html"}
 ]}
