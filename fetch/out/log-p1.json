@@ -1,0 +1,23 @@
+[
+ {
+  "url": "https://tcgcsv.com/tcgplayer/85/groups",
+  "out": "p1/tcgcsv-groups.json",
+  "status": 200,
+  "bytes": 93697,
+  "type": "application/json"
+ },
+ {
+  "url": "https://www.pricecharting.com/category/pokemon-cards",
+  "out": "p1/pc-category.html",
+  "status": 200,
+  "bytes": 118292,
+  "type": "text/html; charset=utf-8"
+ },
+ {
+  "url": "https://api.tcgdex.net/v2/ja/sets",
+  "out": "p1/tcgdex-ja-sets.json",
+  "status": 200,
+  "bytes": 16303,
+  "type": "application/json; charset=utf-8"
+ }
+]
