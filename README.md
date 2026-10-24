@@ -2,7 +2,7 @@
 
 [Abrir la aplicación](https://jaimearandacongil.github.io/oldback/)
 
-Edición pública compilada · versión 4.12.0. Este repositorio contiene la web lista para GitHub Pages; las fuentes se conservan por separado.
+Edición pública compilada · versión 4.13.0. Este repositorio contiene la web lista para GitHub Pages; las fuentes se conservan por separado.
 
 Tu colección se guarda en el navegador del dispositivo. Actualizar esta web mantiene la misma dirección y no borra tus portfolios. Guarda una copia desde Info → Datos de mi colección → Exportar copia JSON antes de cambiar de móvil o borrar datos del navegador. Usa Restaurar copia para recuperarla.
 
