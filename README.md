@@ -2,10 +2,10 @@
 
 [Abrir la aplicación](https://jaimearandacongil.github.io/oldback/)
 
-Edición pública compilada · versión 4.16.0. Este repositorio contiene la web lista para GitHub Pages; las fuentes se conservan por separado.
+Edición pública compilada · versión 4.17.0. Las fuentes se conservan por separado.
 
-Tu colección se guarda en el navegador del dispositivo. Actualizar esta web mantiene la misma dirección y no borra tus portfolios. Guarda una copia desde Info → Datos de mi colección → Exportar copia JSON antes de cambiar de móvil o borrar datos del navegador. Usa Restaurar copia para recuperarla.
+[Probar la nueva experiencia · fase 3](https://jaimearandacongil.github.io/oldback/?v=4.17.0&experience=next#inicio): Inicio, catálogo, ficha, Colección, progreso de sets y Viaje. Usa los portfolios del mismo navegador; las compras confirmadas se guardan realmente. El enlace habitual conserva la interfaz anterior durante el rediseño por fases.
 
-Los precios de TCGplayer y el cambio se actualizan mediante el trabajo programado Precios TCGplayer. PriceCharting conserva la fecha de consulta indicada en cada ficha. Al publicar se mantienen prices/references.json y prices/history.json.
+Tu colección se guarda en el navegador del dispositivo. Actualizar la web en esta misma dirección conserva tus portfolios. Exporta una copia desde Info → Datos de mi colección antes de cambiar de teléfono o borrar los datos del navegador.
 
-Nueva comparación de compra en vista previa: [probar fase 2](https://jaimearandacongil.github.io/oldback/?experience=next#inicio). Usa los portfolios guardados en este mismo navegador. El enlace habitual conserva la interfaz anterior durante el rediseño por fases.
+Precios TCGplayer y cambio actualizados por el trabajo programado; PriceCharting mantiene su fecha de referencia. La publicación conserva prices/references.json, prices/history.json y su trabajo diario.
