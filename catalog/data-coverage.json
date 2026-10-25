@@ -1,16 +1,16 @@
 {
-  "checkedAt": "2026-10-23T03:33:48.181Z",
+  "checkedAt": "2026-10-25T10:30:47.476Z",
   "cards": 2260,
   "japaneseNames": 2260,
   "photos": 2239,
-  "primaryPrices": 2007,
-  "referencePrices": 2141,
-  "priceChartingPrices": 1799,
+  "primaryPrices": 2010,
+  "referencePrices": 2160,
+  "priceChartingPrices": 2042,
   "remaining": {
     "japaneseNames": 0,
     "photos": 21,
-    "primaryPrices": 253,
-    "anyReference": 119
+    "primaryPrices": 250,
+    "anyReference": 100
   },
-  "priceTable": "2026-10-22T20:06:32+0000"
+  "priceTable": "2026-10-24T20:05:44+0000"
 }
