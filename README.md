@@ -2,11 +2,11 @@
 
 [Abrir la aplicación](https://jaimearandacongil.github.io/oldback/)
 
-Edición pública compilada · versión 4.19.0. Las fuentes se conservan por separado.
+Edición pública compilada · versión 4.20.0. Las fuentes se conservan por separado.
 
-[Nueva experiencia](https://jaimearandacongil.github.io/oldback/?v=4.19.0&experience=next#inicio).
+[Nueva experiencia](https://jaimearandacongil.github.io/oldback/?v=4.20.0&experience=next#catalogo).
 
-Intro Pack Neo japonés de 2001 completo: Chikorita y Totodile, 40 impresiones cada lado, con las 80 fotos japonesas e índices de reconocimiento. Incluye Magby del Chikorita Side Deck. Las cartas Side Deck no llevan número impreso; las energías numeradas son impresiones distintas. 66 fichas con referencia disponible; 14 sin precio fiable. TCGplayer conserva su fecha real; PriceCharting indexado se indica aproximado.
+Intro Pack japonés de 1999 completo: 82 impresiones, 41 de Bulbasaur y 41 de Squirtle. Incluye las 40 numeradas de cada mazo y Venusaur/Blastoise holo sin número, además de Ivysaur 22 y Growlithe 1, con fotos japonesas, nombres, referencias, portfolios e índices del escáner. 80 cartas con referencia disponible; 2 sin precio fiable. Los precios mantienen fecha y fiabilidad visibles; no se heredan entre números.
 
 Tu colección se guarda en el navegador. Actualizar en esta misma dirección conserva los portfolios. Exporta una copia desde Info → Datos de mi colección antes de cambiar de teléfono o borrar datos.
 
